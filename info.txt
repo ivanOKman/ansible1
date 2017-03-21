@@ -1,0 +1,7 @@
+        "ansible_processor_vcpus": 2, 
+        "ansible_nodename": "epplkraw0381t1.budapest.epam.com", 
+            "address": "10.0.2.15", 
+                "address": "10.0.2.15", 
+                    "address": "fe80::a00:27ff:fe14:bd1c", 
+                "address": "127.0.0.1", 
+                    "address": "::1", 
